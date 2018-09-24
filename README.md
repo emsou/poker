@@ -13,8 +13,8 @@ The format of all the cards is [V][S], where:
 
 Examples:
 
-10S JC (10 of spades, jack of clubs)
+	10S JC (10 of spades, jack of clubs)
 
-7D KH AH (7 of diamonds, king of hearts, 10 of hearts)
+	7D KH AH (7 of diamonds, king of hearts, 10 of hearts)
 
-QH (queen of hearts)
+	QH (queen of hearts)
